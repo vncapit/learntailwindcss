@@ -1,0 +1,14 @@
+{
+  "name": "learntailwindcss",
+  "version": "1.0.0",
+  "description": "Cap learn tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "Cap",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
